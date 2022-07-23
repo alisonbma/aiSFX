@@ -1,5 +1,7 @@
 # aiSFX
  Representation Learning for the Automatic Indexing of Sound Effects Libraries (ISMIR 2022): Deep audio embeddings pre-trained on UCS & Non-UCS-compliant datasets.
+ 
+This work was inspired by the creation of the [Universal Category System (UCS)](https://universalcategorysystem.com), an industry-proposed public domain initiative initialized by Tim Nielsen, Justin Drury, Kai Paquin, and others. UCS offers a standardized framework for sound effects library metadata designed by and for sound designers and editors.
 
 # Acknowledgements
 We would like to thank those who took the time to provide the data required to conduct this research as well as those who took the time to share their insights and software licenses for tools regarding sound search, query, and retrieval.
