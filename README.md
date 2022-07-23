@@ -23,3 +23,7 @@ This paper has been accepted at the 23rd International Society for Music Informa
             year = {2022},
             archivePrefix = {arXiv},
       }
+
+# Repository License
+
+This repository is made available under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
