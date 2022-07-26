@@ -1,5 +1,8 @@
 # Project
+*.DS_STORE
+*.toml
 dist/*
+src/aisfx/models*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
