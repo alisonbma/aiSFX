@@ -24,6 +24,6 @@ This paper has been accepted at the 23rd International Society for Music Informa
             archivePrefix = {arXiv},
       }
 
-# Repository License
+# Pre-trained Model & Paper License
 
-This repository is made available under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This pre-trained model and paper [1] is made available under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
