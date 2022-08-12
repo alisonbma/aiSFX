@@ -29,3 +29,4 @@ This paper has been accepted at the 23rd International Society for Music Informa
 This pre-trained model and paper [1] is made available under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 # [Visualizations of UCS Classes](https://public.tableau.com/views/X-Sequential-CE_UCS/TRAIN-ProSoundEffectsPSE?:language=en-US&:display_count=n&:origin=viz_share_link)
+Click the above to visualize coarse-level "Category" UCS classes in Pro Sound Effects (PSE), Soundly (SDLY), and UCS Mixed (UMIX).
