@@ -19,6 +19,7 @@ For a more detailed reference on how the above function is called, refer to the 
    :undoc-members:
    :show-inheritance:
 ```
+
 ## aisfx.utils
 
 ```{eval-rst}
