@@ -40,9 +40,8 @@ extensions = [
     "sphinx_rtd_theme",
     "nbsphinx", #MyST-NB
     "sphinx_issues",
-    "numpydoc",
-    "IPython.sphinxext.ipython_console_highlighting" # not proper...
-    ]
+    "numpydoc"
+]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', '**.ipynb_checkpoints']
