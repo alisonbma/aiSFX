@@ -40,7 +40,8 @@ extensions = [
     "sphinx_rtd_theme",
     "nbsphinx", #MyST-NB
     "sphinx_issues",
-    "numpydoc"
+    "numpydoc",
+    "IPython.sphinxext.ipython_console_highlighting" # not proper...
     ]
 
 templates_path = ['_templates']
