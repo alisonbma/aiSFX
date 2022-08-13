@@ -8,7 +8,7 @@ This work was inspired by the creation of the [Universal Category System (UCS)](
 
 # How To Use
 
-Please refer to this package's [documentation](https://aisfx.readthedocs.io/en/latest/) for [**Installation Instructions**](https://aisfx.readthedocs.io/en/latest/installation.html) and [**Tutorials**](https://aisfx.readthedocs.io/en/latest/tutorial.html) of how to extract embeddings.
+Please refer to this package's [documentation](https://aisfx.readthedocs.io/en/latest/) for [**Installation Instructions**](https://aisfx.readthedocs.io/en/latest/installation.html) and [**Tutorials**](https://aisfx.readthedocs.io/en/latest/notebooks/tutorial.html) of how to extract embeddings.
 
 # Cite This Work
 
