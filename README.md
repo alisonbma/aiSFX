@@ -1,6 +1,6 @@
 # aiSFX
 
-![Picture](imgs/ucs_black_badge.png)
+![Picture](https://drive.google.com/file/d/16BF58RuCzXJ_vcBek9AgEl5zNNmZfieA/view?usp=sharing)
 
  Representation Learning for the Automatic Indexing of Sound Effects Libraries (ISMIR 2022): Deep audio embeddings pre-trained on UCS & Non-UCS-compliant datasets.
 
