@@ -1,8 +1,15 @@
-# Project
-*.DS_STORE
-*.toml
+# Large project files
+src/aisfx/models/checkpoint.pth
 dist/*
-src/aisfx/models*
+# src/aisfx/archive/*
+# src/aisfx/metadata/*.h5
+# src/aisfx/features/*
+# src/aisfx/evaluateEmbeddings/*
+# src/aisfx/tensorboardLogs_pretraining/*
+
+# Misc
+*.DS_STORE
+*.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

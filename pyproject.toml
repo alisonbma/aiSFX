@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "aisfx"
+version = "0.0.1"
+authors = [ { name="Alison Bernice Ma", email="ama67@gatech.edu" },
+            { name="Alexander Lerch", email="alexander.lerch@gatech.edu" }
+          ]
+description = "Representation Learning for the Automatic Indexing of Sound Effects Libraries (ISMIR 2022): Deep audio embeddings pre-trained on UCS & Non-UCS-compliant datasets."
+readme = "README.md"
+keywords = ["sound effects library", "universal category system", "audio", "embeddings", "representation", "deep", "machine", "learning", "pytorch"]
+classifiers = ["Development Status :: 3 - Alpha",
+               "Intended Audience :: Developers",
+               "Intended Audience :: Science/Research",
+               "License :: OSI Approved :: MIT License",
+               "Topic :: Multimedia :: Sound/Audio :: Analysis"
+               ]
+
+dependencies = ["librosa==0.9.2", "numpy==1.23.0",
+                "tqdm==4.62.3", "argparse==1.1"
+                ]
+
+[project.optional-dependencies]
+doc = ["sphinx==5.1.1",
+        "sphinx_rtd_theme==1.0.0",
+        "readthedocs-sphinx-search==0.1.2",
+        "myst_parser==0.18.0",
+        "nbsphinx==0.8.9",
+        "sphinx-issues==3.0.1",
+        "numpydoc==1.4.0"
+        ]
+
+[project.urls]
+"Source" = "https://github.com/alisonbma/aisfx"
+"Tracker" = "https://github.com/alisonbma/aisfx/issues"
