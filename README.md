@@ -16,12 +16,12 @@ Please cite the paper below if you use it in your work.
 
 This paper has been accepted at the 23rd International Society for Music Information Retrieval Conference (ISMIR) in Bengaluru, India (December 04-08, 2022). To cite a pre-print, please refer to the following.
 
-[1] [Representation Learning for the Automatic Indexing of Sound Effects Libraries](https://www.xxxxxx)
+[1] [Representation Learning for the Automatic Indexing of Sound Effects Libraries](https://arxiv.org/abs/2208.09096)
 
       @article{pp_aisfx},
             title = {Representation Learning for the Automatic Indexing of Sound Effects Libraries},
             author = {Ma, Alison Bernice and Lerch, Alexander},
-            journal={arXiv preprint arXiv:xxxx.xxxxx},
+            journal={arXiv preprint arXiv:2208.09096},
             year = {2022},
             archivePrefix = {arXiv},
       }
