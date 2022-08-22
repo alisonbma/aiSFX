@@ -18,7 +18,7 @@ This paper has been accepted at the 23rd International Society for Music Informa
 
 [1] [Representation Learning for the Automatic Indexing of Sound Effects Libraries](https://arxiv.org/abs/2208.09096)
 
-      @article{pp_aisfx},
+      @article{preprint_aisfx},
             title = {Representation Learning for the Automatic Indexing of Sound Effects Libraries},
             author = {Ma, Alison Bernice and Lerch, Alexander},
             journal={arXiv preprint arXiv:2208.09096},
