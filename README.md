@@ -10,6 +10,10 @@ This work was inspired by the creation of the [Universal Category System (UCS)](
 
 Please refer to this package's [documentation](https://aisfx.readthedocs.io/en/latest/) for [**Installation Instructions**](https://aisfx.readthedocs.io/en/latest/installation.html) and [**Tutorials**](https://aisfx.readthedocs.io/en/latest/notebooks/tutorial.html) of how to extract embeddings.
 
+# [Visualizations of UCS Classes](https://public.tableau.com/views/X-Sequential-CE_UCS/TRAIN-ProSoundEffectsPSE?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Click the above to visualize coarse-level "Category" UCS classes in Pro Sound Effects (PSE), Soundly (SDLY), and UCS Mixed (UMIX).
+
 # Cite This Work
 
 Please cite the paper below if you use it in your work.
@@ -34,7 +38,3 @@ We would like to thank those who provided the data required to conduct this rese
 # License: Pre-trained Model & Paper
 
 This pre-trained model and paper [1] is made available under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-# [Visualizations of UCS Classes](https://public.tableau.com/views/X-Sequential-CE_UCS/TRAIN-ProSoundEffectsPSE?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-Click the above to visualize coarse-level "Category" UCS classes in Pro Sound Effects (PSE), Soundly (SDLY), and UCS Mixed (UMIX).
