@@ -8,7 +8,7 @@
 # models were trained using python==3.9.6
 conda create -n myCondaEnvironment python=3.9.6
 ```
-3. Install [PyTorch](https://pytorch.org/get-started/locally/) with or without CUDA support.
+3. Install [PyTorch](https://pytorch.org/get-started/locally/) with or without CUDA support. This library was developed with `torch==1.12.0`.
 4. Download the aiSFX package by using pip, or
 
 ```
