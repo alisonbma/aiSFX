@@ -9,16 +9,14 @@
 conda create -n myCondaEnvironment python=3.9.6
 ```
 3. Install [PyTorch](https://pytorch.org/get-started/locally/) with or without CUDA support. This library was developed with `torch==1.12.0`.
-4. Download the aiSFX package by using pip, or
-
+4. Download the aiSFX package with either method
 ```
+# Using the released pip package
 pip install aisfx
 ```
-
-install the latest updated code:
-
 ```
-    pip install git+https://github.com/alisonbma/aiSFX.git
+# Using the latest updated code
+pip install git+https://github.com/alisonbma/aiSFX.git
 ```
 
 5. To replicate the ISMIR paper code, you will need to download the [Essentia](https://essentia.upf.edu/) library to compute the spectrograms.
