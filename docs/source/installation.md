@@ -15,14 +15,10 @@ conda create -n myCondaEnvironment python=3.9.6
 pip install aisfx
 ```
 
-by buliding from source:
+install the latest updated code:
 
 ```
-    git clone https://github.com/alisonbma/aiSFX.git
-
-    cd aiSFX-main
-
-    pip install aisfx .
+    pip install git+https://github.com/alisonbma/aiSFX.git
 ```
 
 5. To replicate the ISMIR paper code, you will need to download the [Essentia](https://essentia.upf.edu/) library to compute the spectrograms.
