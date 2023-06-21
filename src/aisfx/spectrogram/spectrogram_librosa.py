@@ -28,7 +28,7 @@ def compute_spectrogram(filename, sr,
     db_ref=1.0
     dynamic_range=80.0
 
-    y, sr = librosa.load(path=filename, sr=sr)
+    y, sr = librosa.load(path=filename, sr=sr, mono=True)
 
     # Normalize Audio - Note differences from Essentia, which uses dB: -6 as reference...
     fNorm = np.max(np.abs(y))
