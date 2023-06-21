@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "aisfx"
-version = "0.0.1"
+version = "0.1.2"
 authors = [ { name="Alison Bernice Ma", email="ama67@gatech.edu" },
             { name="Alexander Lerch", email="alexander.lerch@gatech.edu" }
           ]
